@@ -132,9 +132,11 @@ streamlit run app.py
 * Real-time prediction
 * Confidence score display
 
+---
+## Application Preview with real world image
+<img width="1273" height="776" alt="Screenshot 2026-04-23 at 10 17 09 PM" src="https://github.com/user-attachments/assets/a7493f6d-b816-42fa-973c-736744ceff12" />
 
 ---
-
 ## 🏪 Real-World Applications
 
 * Self-service kiosks (automated billing)
