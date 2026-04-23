@@ -42,12 +42,21 @@ https://www.kaggle.com/datasets/karkengchan/malaysia-food-11
 
 ```
 
-├── Malaysia-11.ipynb       # Main notebook (training + analysis)
-├── app.py                  # Streamlit app
-├── resnet_food_model.keras # Trained model
-├── custom_cnn_best.keras   # Best CNN checkpoint
-├── resnet_best_weights.keras
-├── /data                   # Dataset directory (11 classes)
+malaysia-food-classification/
+│
+├── notebooks/
+│   └── Malaysia-11.ipynb
+│
+├── app/
+│   └── app.py
+│
+├── models/
+│   ├── resnet_food_model.keras
+│   ├── custom_cnn_best.keras
+│   └── resnet_best_weights.keras
+│
+├── requirements.txt
+├── README.md
 
 ````
 
